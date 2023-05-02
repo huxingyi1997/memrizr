@@ -1,4 +1,4 @@
-module github.com/huxingyi1997/memrizr
+module github.com/huxingyi1997/memrizr/server
 
 go 1.20
 
